@@ -16,7 +16,7 @@ const invitation = {
   },
   mapsUrl: "https://maps.app.goo.gl/GSFSsjSUToKoJFQk7",
   rsvpEndpoint: "https://formspree.io/f/maewwlpe",
-  websiteUrl: "https://mohamednaser99.github.io/ma-wedding/",
+  websiteUrl: "https://elseadawyzaki.github.io/mohamed-asmaa-wedding/",
   defaultLanguage: "ar",
   musicFile: "assets/audio/our-song.mp3"
 };
