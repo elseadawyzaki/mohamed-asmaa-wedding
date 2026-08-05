@@ -6,8 +6,8 @@ const invitation = {
   couple: { ar: "محمد وأسماء", en: "Mohamed & Asmaa" },
   eventType: { ar: "حفل زفاف محمد وأسماء", en: "Mohamed & Asmaa’s Wedding Celebration" },
   engagementDate: "2024-10-11",
-  eventDate: "2026-08-16T20:00:00+03:00",
-  eventEnd: "2026-08-16T23:30:00+03:00",
+  eventDate: "2026-08-16T17:00:00+03:00",
+  eventEnd: "2026-08-16T19:00:00+03:00",
   timezone: "Africa/Cairo",
   venue: { ar: "مسجد الدماطي بطنطا", en: "Al Damatti Mosque" },
   address: {
